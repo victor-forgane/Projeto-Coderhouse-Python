@@ -30,7 +30,7 @@ Criar um pipeline que:
 ## **Como Configurar e Executar o Projeto**
 
 ### **Pré-requisitos**
-- Python 3.8 ou superior.
+- Python 3.11 ou superior.
 - Dependências listadas no arquivo `requirements.txt` (instale usando `pip install -r requirements.txt`).
 - Conexão com a internet para acessar a API.
 
